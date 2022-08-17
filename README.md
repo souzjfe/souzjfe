@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react and typescript**
 
 - 📫 How to reach me **jefsou@alunos.utfpr.edu.br**
 
