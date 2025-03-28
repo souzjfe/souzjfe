@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Jeferson Rosa de Souza</h1>
-<h3>A passionate frontend developer from Brazil</h3>
+<h3>A passionate fullstack developer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souzjfe&theme=dracula&margin-w=5&margin-h=5" alt="souzjfe" /></a> </p>
 
